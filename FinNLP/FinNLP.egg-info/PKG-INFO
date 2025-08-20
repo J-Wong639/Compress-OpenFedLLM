@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: FinNLP
+Version: 0.0.1
+Summary: FinNLP
+Home-page: https://github.com/AI4Finance-Foundation/FinNLP
+Author: AI4Finance Foundation
+Author-email: contact@ai4finance.org
+License: MIT
+Keywords: Financial Large Language Models
+Platform: any
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: akshare
+Requires-Dist: tushare
+Requires-Dist: finnhub-python
+Requires-Dist: parsel
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: tqdm
+Requires-Dist: pytz
+
+FinNLP

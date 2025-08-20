@@ -1,0 +1,9 @@
+
+akshare
+tushare
+finnhub-python
+parsel
+requests
+pandas
+tqdm
+pytz

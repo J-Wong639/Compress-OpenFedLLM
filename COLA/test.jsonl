@@ -1,0 +1,527 @@
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The sailors rode the breeze clear of the rocks.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The weights made the rope stretch over the pulley.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The mechanical doll wriggled itself loose.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: If you had eaten more, you would want less.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: As you eat the most, you want the least.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The more you would want, the less you would eat.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I demand that the more John eat, the more he pays.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary listens to the Grateful Dead, she gets depressed.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The angrier Mary got, the more she looked at pictures.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The higher the stakes, the lower his expectations are.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The more Fred is obnoxious, the less attention you should pay to him.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John was lots more obnoxious than Fred.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The more people you give beer to, the more people get sick.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The more does Bill smoke, the more Susan hates him.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The more pictures of him that appear in the news, the more embarrassed John becomes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Every senator seems to become more corrupt, as he talks to more lobbyists.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who does John visit Sally because he likes?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Marianne did not leave.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He could not have been working.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He can not have been working.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You will believe Bob.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John has not kissed Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I said that never in my life had I seen a place like Bangor.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mickey looked up it.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There tended to be a lot of discussion.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John tried to be a good boy.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John is eager.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We want John to win.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The box contained the ball from the tree.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The tube was escaped by gas.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Water bubbled up out of the kettle.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The tub leaked water.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What the water did to the bottle was fill it.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What the water did to the whole bottle was fill it.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The tank leaked the fluid free.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John lay the ball in the box.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John owns the book.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We persuaded Mary to leave and Sue to stay.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Most people probably consider, even though the courts didn't actually find, Klaus guilty of murder.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary beautifully plays the violin.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Clearly, John probably will immediately learn French perfectly.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sue gave to Bill a book.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The men will all leave.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John went home.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They represented seriously to the dean Mary as a genuine linguist.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Us love they.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It is nice to go abroad.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary intended John to go abroad.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I remembered having kissed Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I can't believe Fred won't, either.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John wants to read Fred's story, and I also want to.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We wanted to invite someone, but we couldn't decide who to.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary will read Fred's story, and Joe will read Holly's.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary claimed that eating cabbage, Holly shouldn't.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary came to be introduced by the bartender and I also came to be.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: If I can, I will work on it.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Joe's neuroses bother his patrons, and Sally does too.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I know which book José didn't read for class, and which book Lilly did it for him.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This is the book which Bob reviewed, and this is the one which Fred won't do it.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I know which book Mag read, and which book Bob said that you hadn't.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I know which book Mag read, and which book Bob read my report that you hadn't.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I'm sure I would like him to eat fruit more than I would cookies.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Rusty talked about himself only after Mary did talk about him.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Fred talked about everything before Rusty did talk about something.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John often meets Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The problem perceives easily.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A hundred men surrounded the fort.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We elected me.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which report that John was incompetent did he submit?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary has always preferred lemons to limes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He let the cats which were whining out.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What did Bill buy?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary saw the boy walking toward the railroad station.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A proof that the claim had been made was given that John had lied.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He attributed to a short circuit which was caused by an overloaded transducer the fire which destroyed most of my factory.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The mayor regarded as being absurd the proposal to build a sidewalk from Dartmouth to Smith.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I want that Bill left to remain a secret.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I know a man who Tom drives as drives.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Drowning cats, which is against the law, are hard to rescue.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Muriel said nothing else than that she had been insulted.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Himself is understood by Rutherford.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I feel that Arch will show up.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The proof this set is recursive is difficult.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The madrigals which Henry plays the lute and sings sound lousy.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Tom picked these grapes, and I washed some turnips, and Suzie will prepare these grapes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Where did you go and who ate what?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which boy's did we elect guardian's employer president?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: How sane is Peter?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I live at the place where Route 150 crosses the River and my dad lives at the place where Route 150 crosses the Hudson River too.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I live at the place where Route 150 crosses the Hudson River and my dad lives at it too.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who is she trying to make up to now?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Wind was gotten of a plot to negotiate an honorable end to the war in Vietnam.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mike talked about politics yesterday to my friends.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It was expected by the reporters that the principal would fire some teacher.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which hat did Mike quip that she never wore?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which girl did Mike quip never wore this hat?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We donated wire for the convicts to build cages with.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I won't have some money.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Do you believe the claim that somebody was looking for something?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I won't ask you to believe that he tried to force me to give her any money.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That Sam sometimes didn't sleep must have pleased somebody.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I talked to Winston about himself.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That the fuzz wanted him worried John, but that the fuzz wanted her didn't worry Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I'll work on it if Sam will be working on it.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I'll work on it if I can.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Here's a knife with which for you to cut up the onions.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Fluffy is sick, which not everybody knows.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Maxwell is quite a doctor.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The younger woman might have been tall and, and the older one definitely was, blond.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sally is tall, and may be blond, and Sheila is short, and definitely is, blond.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I have to try to finish grading some papers.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The socks are ready for for you to put on to be planned.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It is easy to play sonatas on this violin.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This violin is difficult to play sonatas on.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: My mother is easy to please my father and.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Poor Bill, it had started to rain and he had no umbrella.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That the cops spoke to the janitor about it yesterday is terrible, that robbery.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Every student, and he wears socks, is a swinger.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That girl was given my binoculars by him.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Bill didn't allege that Roger had eaten anything.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Nobody who hates to eat anything should work in a delicatessen.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Everybody around here who ever buys anything on credit talks in his sleep.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I can't remember the name of somebody who had misgivings.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: No writer, and no playwright, meets in Vienna.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: No writer, nor any playwright, meets in Vienna.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That you will marry any student is not certain.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Felicia kicked the ball off the bench.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I sent the package halfway around the world.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sam gave the ball out of the basket.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sam offered the ball out of the basket.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Park Square has a festive air.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The worker will have a job.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: No one can forgive that comment to you.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We launched the rocket to the moon, but it blew up before it got there.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sarah promised Catherine her old car, but then gave it to her son instead.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I lent the book partway to Tony.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The farmer loaded the cart with apples.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The farmer dumped the cart with apples.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Martha carved the baby a toy out of wood.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The bread cuts easily.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Janet broke Bill on the finger.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Janet broke the cup.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The visitor rang the bell.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We pulled free.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That movie always shocks people.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That movie always shocks.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sharon came the room.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Bill sent a package to Tom.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That acorn will grow into an oak tree.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He turned into a frog.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I mixed the sugar into the butter.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Brian threw the fence with the stick.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mira condemned Terry for the accident.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We investigated the area for bombs.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I sensed his eagerness.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They praised the dedication in the volunteers.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The earth was believed to be round.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sarah smiled a charming smile.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sandra beamed a cheerful welcome.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You've really lived it up.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Paperback books lift onto the table easily.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The books lifted onto the table.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jessica loaded boxes under the wagon.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jessica loaded boxes on the wagon.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jessica crammed boxes at the truck.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Lora buttered at the toast.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Carla shoveled the walk.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Nora sent the book.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Nora sent Peter the book.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Carla slid the book.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Carla slid at the book.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Amanda carried the package to Pamela.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Packages drive easily to New York.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The chair pushed.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We offered a job to her.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A job offered.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Brown presented a plaque to Jones.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Carmen bought Mary a dress.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Carmen obtained the spare part at the hardware store.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Michelle kept the desk with the papers.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Frances hid the presents in the drawer.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The needle poked the cloth.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Carrie touched that cat.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Herman whipped the sugar and the cream.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Linda taped the picture to the wall.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Linda taped the picture onto the wall.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The child and her mother clung together.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This flyer and that flyer differ.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This flyer and that flyer differ apart.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The jeweller scribbled the contract with his name.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The gardener grew that acorn into an oak tree.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I shaped a loaf.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The children amused.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Susan whispered the news.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Susan whispered at Rachel.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ellen said that melons were selling well.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ellen said about the present conditions.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ellen warned Helen against skating on thin ice.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Cynthia nibbled on the carrot .","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Cynthia chewed.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Paul laughed at Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Linda winked her lip.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: My heart is pounding me.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sharon fainted from hunger.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The witch poisoned the children.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A grandfather clock ticked in the hallway.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I squeaked the door.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Over the fire there bubbled a fragrant stew.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Soaring temperatures are predicted for this weekend.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The fort fluttered with many flags.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The voices echoed in the hall.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The stream twists through the valley.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There presented itself a wonderful opportunity yesterday.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A wonderful opportunity presented itself to him yesterday.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Out of the box jumped a little white rabbit.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Penny skated around the rink.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jackie accompanied Rose.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: many information was provided.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John offers many advice.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The cake that Jones got was more delicious than the one that Smith got.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We recommend to eat less cake and pastry.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I saw that gas can explode.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He washed her.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Wash you!","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They have no in.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Some my jobs are in jeopardy.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It was the policeman met that several young students in the park last night.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: did the policeman meet in the park?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John put old books in the box.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The monkeys proud of their leader.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John sounded very.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I don't know if I should agree.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John bought a book on the table.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John called the president a fool.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I forgot how good beer tastes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This teacher is a genius.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A good friend is remained to me by him.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John ate his noodle quietly.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A smith hammered the metal.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sandy removed her ballet shoes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This week will be a difficult one for us.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Benny worked in a shoe factory when he was a student.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Everyone hoped that she would sing.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This proved a decisive factor.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The crocodile devoured the doughnut.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John is afraid of Bill.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John put under the bathtub.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John placed Kim behind the garage.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kim depends for Sandy.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John put the book in the box.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John taught English Syntax to new students.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John regards Bill as a good friend.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kim put in the box.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The chickens seem fond of the farmer.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The rules require that the executives be polite.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That Fred was unpopular nominated Bill.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They were taking a hard look at possible FTA.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John paid me against the book.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The committee will study the feasibility of setting up a national computer network.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We made them be rude.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: After reading the pamphlet, Judy threw it into the garbage can.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Students studying English reads Conrad's Heart of Darkness while at university.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I read some of the book.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Most of the fruit is rotten.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Neither of students failed.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I drank some of water.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It is a golden hair.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The boy in the doorway waved to his father.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That dog is so ferocious, it even tried to bite itself.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He washed yourself.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John is easy to please Kim.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There seemed to be intelligent.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John tried to please Stephen.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We believed John to be a fountain in the park.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It tries to leave the country.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John tries to leave the country.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Under the bed seems to be a fun place to hide.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There is believed to be sheep in the park.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I hope to would study in France.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John can kick the ball.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John will rain tomorrow.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We expect there to will rain.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John was found in the office.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Did the child be in the school?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It did not rain.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John wants not to leave the town.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary likes to tour art galleries, but Bill hates to.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They needn't take this exam.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ann may spend her vacation in Italy.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They love to play golf, but I do not.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: George has spent a lot of money, hasn't he?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: As a statesman, scarcely could he do anything worth mentioning.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We never found any of the unicorns.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: One of Korea's most famous poets wrote these lines.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Somebody apparently struck the unidentified victim during the early morning hours.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The car was driven.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ricky can be relied on.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The bed was slept in.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A pound was weighed by the book.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who do you think Tom saw?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: he had spent five thousand dollars.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Fed knows which politician her to vote for.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: How did you guess that he fixed the computer?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The committee knows whose efforts to achieve peace the world should honor.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which house does your friend live?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: the baker from whom I bought these bagels left.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I found the place where we can relax.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jack is the person with whom Jenny fell in love with.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There is a bench to sit on.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I met the man who grows peaches.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which topic did you choose without getting his approval?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which topic did you get bored because Mary talked about?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That is the reason why he resigned.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It bothers me that John coughs.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: To please John is easy.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kim is eager to please Tom.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That we invaded Iraq really bites.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It annoys me that Fido barks.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who achieved the best result was Angela.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It was the peasant girl who got it.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That kind of person is hard to find anyone to look after.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A sick owl doesn't hunt mice.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Each candidate who has interest in semantics will be admitted to the department.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Each author whose contribution is written in any language other than English will provide a summary in English.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I'm sure we even got these tickets!","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I'm even sure we got these tickets!","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It's not because I have any sympathy for urban guerillas that I helped him.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It isn't because Sue said anything bad about me that I'm angry.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That he was hungry, John whined.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I gave Mary after the party a book.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Because she's so pleasant, as for Mary I really like her.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Though he may hate those that criticize Carter, it doesn't matter.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: With no job would John be happy.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I have much of the manuscript left to type.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He's a more reliable man.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Any trouble is what I don't want.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They may grow as high as bamboo.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Some of them made as many errors as 20.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sally kissed himself.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Drew believes I think Rosie loves magazine ads.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Dave, Dan, Erin, Jaime, and Alina left.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Hopefully, we'll make it through the winter without snow.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Blue leather shows herself that Betsy is pretty.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Gwen hit the baseball.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I hit that you knew the answer.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I've lost my wallet or I've lost my mind.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It was a brand new car that he bought.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He likes cookies and he hates crumb cake.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They chased the man with the car.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I didn't have a red cent.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: the book of poems and from Blackwell takes a very long time to read.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: the one with a red cover takes a very long time to read.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John has a fear of dogs.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The building's the roof is leaking.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: the panther's the coat is dark black.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Colin asked if they could get a mortgage.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The man I saw get into the cab robbed the bank.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I know you eat asparagus.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John's drum will always bother me.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: An evil thought struck Dave.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: In the classroom John put the book on the table.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Phillip gave the medal to the soldier.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Heidi thinks that Andy to eat salmon flavored candy bars.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Heidi thinks that Andy should eat salmon flavored candy bars.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He danced.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Did Calvin his homework?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sylvia was slapping Jeff upside the head in martial arts class.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: If I am a rich man, I'd buy a diamond ring.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: If he were a rich man, he'd buy a diamond ring.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John is likely to leave.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The manager laughed.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Was sunk.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who did you think kissed the gorilla?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Have you seen my model airplane collection?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It seems that Lucy was mugged.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I ate a salad that was filled with lima beans.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There were four men arriving at the station when I pulled up.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jean is reluctant to dance.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I want her to dance.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jean persuaded Robert.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jean wants Bill to do the Macarena.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The children admire their mother.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who has Peter talked with?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Heidi likes her violin.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John thinks that Mary loves himself.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which pictures of himself does John like?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Any owl hunts mice.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Any man didn't eat dinner.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: A pilot could be flying this plane.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Everybody who attended last week's huge rally, whoever they were, signed the petition.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anybody who attended last week's huge rally signed the petition.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Any tiger has orange fur, marked with black stripes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Any albino tiger has orange fur, marked with black stripes.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You must pick any flower you see.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Any pilot on duty today could be flying this plane.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You may pick every flower, but leave a few for Mary.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The Dodgers beat the Red Sox and were beaten by the Giants.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: In which car was the man seen?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The man who Mary loves and Sally hates computed my tax.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The kennel which Mary made and Fido sleeps has been stolen.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Tom said he would and Bill actually did eat a raw eggplant.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The wealthy young man bought that piano for his secret fiancée.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The dog stole the turkey.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: a tall building.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This building is tall.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I like the book which you gave me.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Captain Wentworth wrote a letter to Anne Elliott.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: She asked was Alison coming to the party.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They realised that never had Sir Thomas been so offended.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Fanny regretted having to talk to Aunt Norris.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Knowing the country well, he took a short cut.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He left the train with somebody else's wallet in his pocket.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Magnus went to Ireland.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who did John send the book?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The idea dismayed the Prime Minister that the Dome was dull.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Came right in he did without so much as a knock.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Harriet admired Mr Knightley.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The book is boring.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ethel wishes to ask you some awkward questions.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Emma made Harriet some food.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The window was broken with a hammer.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The fugitive lay motionless in order to avoid discovery.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The guard marched the prisoners round the yard.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Frank Churchill crossed the street.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Emma and Harriet were attacked yesterday.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Fiona might be here by 5 o'clock.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I am both expecting to get the job and of the opinion that it is a desirable one.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Pat was awarded the Golden Fleece Award and very upset about it.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kim alienated cats and beating his dog.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They knew that pictures of each other would be on sale.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which article did Terry file papers without reading?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I want to try and buy some whiskey.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: She goes and buying some whiskey.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kim and Terry is happy.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kim gave a dollar to Bobbie and a dime to Jean.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: This girl in the red coat will put a picture of Bill in the mailbox and on your desk before tomorrow.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Put a picture of Bill on your desk before tomorrow, this girl in the red coat will put a picture of Bill on your desk before tomorrow.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Picture of Bill, this girl in the red coat will put a picture of Bill on your desk before tomorrow.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Ann bought a first edition of Richard III for $1000.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John became deadly afraid of flying.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What John promised is to be gentle.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Henri wants to buy which books about cooking?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I will fix the computer for Carol.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Smith loaned a valuable collection of manuscripts to the library.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The paper is cut by Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It was from six to nine or it took place from six to nine.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Suddenly, there arrived two inspectors from the INS.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The soup cooks, thickens.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I gave money to the charity.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John asked.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I saw even the student.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John whispered Mary left.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary wonders that Bill will come.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Sophie will theater.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John finished the cake and drank the lemonade.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Herself likes Mary's mother.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Each of the boys fought with some of the other boys.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John's mother likes himself.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary revealed himself to John.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary believes that Bill saw himself.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John heard that they criticized themselves.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Mary thinks that she is smart.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Henry found that Bill is sad.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John considers himself proud of Mary.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You should sit before there.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There is a nurse available.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Everyone hopes everyone to sleep.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Everyone hopes that he will sleep.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Only Churchill remembered Churchill giving the Blood, Sweat and Tears speech.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John promise Mary to shave himself.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: John convinced Bill that Mary should sleep.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I saw Bill while you did so Mary.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What Mary did Bill was give a book.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The bears sniffed","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: to steal talismans from witches is dangerous","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anson demonized","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You kicked yourselves","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The book that I said that I'd never read.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anson demonized up the Khyber","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It is not true that I might be going to the party.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Kick you!","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jason persuaded the doctor to treat Medea","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Who did you get an accurate description of?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The Peter we all like was at the party","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The government's imposition of a fine.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Did Athena help us?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: You wanted to meet the man I saw.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anson demonized David every day","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: There is a programme about Euripides on a Radio 4 tonight?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Medea denied poisoning the phoenix.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The elixir was hidden in a hole in the ground","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Extremely frantically, Anson danced at Trade","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What did you ask who Medea gave?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It's Anson that I like","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Medea tried the nurse to poison her children.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I felt that I know you.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Will he can do it?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I ate that she was happy","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anson believed himself to be handsome.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We arrived about six o'clock","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Gilgamesh is having fought the dragon.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anson thought that himself was happy.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Fortunately Hermione passed biology","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I might be not going to the party but washing my hair","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I thought he liked myself","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The butler sent the poison to Dinah.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Jason happens to appear to seem to be sick.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: What did you ask who saw?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: We linguists love to argue","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: He can will go","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: How fierce the battle?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Which king did you ask which city invaded?","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It is some disgruntled old pigs in those ditches that humans love to eat.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: That banana is eating the monkey.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Burn them!","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: It stinks that Aphrodite is omnipotent.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Agamemnon seems to be a maniac","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Will Anson come to the party?","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I wondered who Medea had poisoned.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I inquired when could we leave.","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: They kicked them","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The monkey is ate the banana","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I would like to could swim","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I kicked myself","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: The bookcase ran","response":"No"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: I shaved myself.","response":"Yes"}
+{"instruction":"Is the following sentence grammatically acceptable?\nSentence: Anson became a muscle bound.","response":"No"}

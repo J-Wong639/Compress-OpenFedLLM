@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+FinNLP.egg-info/PKG-INFO
+FinNLP.egg-info/SOURCES.txt
+FinNLP.egg-info/dependency_links.txt
+FinNLP.egg-info/requires.txt
+FinNLP.egg-info/top_level.txt
